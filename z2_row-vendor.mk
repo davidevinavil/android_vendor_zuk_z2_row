@@ -564,6 +564,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/bin/qseeproxydaemon:system/vendor/bin/qseeproxydaemon \
     vendor/zuk/z2_row/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zuk/z2_row/proprietary/vendor/bin/pd-mapper:system/vendor/bin/pd-mapper \
+    vendor/zuk/z2_row/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
     vendor/zuk/z2_row/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/zuk/z2_row/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/zuk/z2_row/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
