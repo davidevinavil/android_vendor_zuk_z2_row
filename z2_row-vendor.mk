@@ -36,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_isp_bpc47.so:system/vendor/lib/libmmcamera_isp_bpc47.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libvoice-svc.so:system/vendor/lib/libvoice-svc.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libseemore.so:system/vendor/lib/libseemore.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:system/vendor/lib/libqomx_jpegenc_pipe.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_ov8865_zsl_preview.so:system/vendor/lib/libchromatix_ov8865_zsl_preview.so \
@@ -359,7 +358,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libacdbloader.so:system/vendor/lib64/libacdbloader.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libdsutils.so:system/vendor/lib64/libdsutils.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libvoice-svc.so:system/vendor/lib64/libvoice-svc.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/librs_adreno_sha1.so:system/vendor/lib64/librs_adreno_sha1.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libizat_client_api.so:system/vendor/lib64/libizat_client_api.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libulp2.so:system/vendor/lib64/libulp2.so \
@@ -699,7 +697,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/zuk/z2_row/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/zuk/z2_row/proprietary/bin/imscmservice:system/bin/imscmservice \
-    vendor/zuk/z2_row/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/zuk/z2_row/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/zuk/z2_row/proprietary/bin/wcnss_filter:system/bin/wcnss_filter \
     vendor/zuk/z2_row/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -747,7 +744,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     QtiTelephonyService \
     shutdownlistener \
-    TimeService \
     CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
