@@ -148,7 +148,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_s5k2m8sx_zsl_preview_ak7371.so:system/vendor/lib/libchromatix_s5k2m8sx_zsl_preview_ak7371.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_isp_aec_bg_stats47.so:system/vendor/lib/libmmcamera_isp_aec_bg_stats47.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libc2d30-a5xx.so:system/vendor/lib/libc2d30-a5xx.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_ov8865_hfr_90_none.so:system/vendor/lib/libchromatix_ov8865_hfr_90_none.so \
@@ -217,7 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_isp_mce40.so:system/vendor/lib/libmmcamera_isp_mce40.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_ov8865_hfr_90.so:system/vendor/lib/libchromatix_ov8865_hfr_90.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_hvx_add_constant.so:system/vendor/lib/libmmcamera_hvx_add_constant.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libchromatix_ov8865_preview.so:system/vendor/lib/libchromatix_ov8865_preview.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
@@ -280,7 +278,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_sw2d_lib.so:system/vendor/lib/libmmcamera_sw2d_lib.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_hvx_zzHDR.so:system/vendor/lib/libmmcamera_hvx_zzHDR.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/librcc.so:system/vendor/lib/librcc.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib/libcneconn.so:system/vendor/lib/libcneconn.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libOmxWmaDec.so:system/vendor/lib/libOmxWmaDec.so \
     vendor/zuk/z2_row/proprietary/vendor/lib/libmmcamera_isp_fovcrop_encoder46.so:system/vendor/lib/libmmcamera_isp_fovcrop_encoder46.so \
@@ -373,7 +370,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libgeofence.so:system/vendor/lib64/libgeofence.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libidl.so:system/vendor/lib64/libidl.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libhwdaphal.so:system/vendor/lib64/libhwdaphal.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libsdm-diag.so:system/vendor/lib64/libsdm-diag.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libgsl.so:system/vendor/lib64/libgsl.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/lib_drplugin_server.so:system/vendor/lib64/lib_drplugin_server.so \
@@ -409,7 +405,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/egl/libGLESv2_adreno.so:system/vendor/lib64/egl/libGLESv2_adreno.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/lib-imsSDP.so:system/vendor/lib64/lib-imsSDP.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libsd_sdk_display.so:system/vendor/lib64/libsd_sdk_display.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libprotobuf-cpp-shit.so:system/vendor/lib64/libprotobuf-cpp-shit.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libqdp.so:system/vendor/lib64/libqdp.so \
@@ -439,7 +434,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libcneqmiutils.so:system/vendor/lib64/libcneqmiutils.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libadreno_utils.so:system/vendor/lib64/libadreno_utils.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libNimsWrap.so:system/vendor/lib64/libNimsWrap.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libasn1crt.so:system/vendor/lib64/libasn1crt.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libc2d30-a5xx.so:system/vendor/lib64/libc2d30-a5xx.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/librilqmiservices.so:system/vendor/lib64/librilqmiservices.so \
@@ -476,7 +470,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libGPreqcancel_svc.so:system/vendor/lib64/libGPreqcancel_svc.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libacdbmapper.so:system/vendor/lib64/libacdbmapper.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/lib-imsrcscm.so:system/vendor/lib64/lib-imsrcscm.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libqc-opt.so:system/vendor/lib64/libqc-opt.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libtime_genoff.so:system/vendor/lib64/libtime_genoff.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libmmcamera2_q3a_core.so:system/vendor/lib64/libmmcamera2_q3a_core.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libxml.so:system/vendor/lib64/libxml.so \
@@ -513,7 +506,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libqmi_cci.so:system/vendor/lib64/libqmi_cci.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libdataitems.so:system/vendor/lib64/libdataitems.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/librcc.so:system/vendor/lib64/librcc.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libcneconn.so:system/vendor/lib64/libcneconn.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libOmxWmaDec.so:system/vendor/lib64/libOmxWmaDec.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/liblbs_core.so:system/vendor/lib64/liblbs_core.so \
@@ -541,7 +533,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libaudiodevarb.so:system/vendor/lib64/libaudiodevarb.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/liblowi_client.so:system/vendor/lib64/liblowi_client.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libFidoSuiJNI.so:system/vendor/lib64/libFidoSuiJNI.so \
-    vendor/zuk/z2_row/proprietary/vendor/lib64/libloc_xtra.so:system/vendor/lib64/libloc_xtra.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/liblqe.so:system/vendor/lib64/liblqe.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libOmxAlacDec.so:system/vendor/lib64/libOmxAlacDec.so \
     vendor/zuk/z2_row/proprietary/vendor/lib64/libril-qc-qmi-1.so:system/vendor/lib64/libril-qc-qmi-1.so \
@@ -620,7 +611,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/etc/cne/wqeclient/VZW/VZW_profile1.xml:system/etc/cne/wqeclient/VZW/VZW_profile1.xml \
     vendor/zuk/z2_row/proprietary/etc/cne/wqeclient/VZW/VZW_profile3.xml:system/etc/cne/wqeclient/VZW/VZW_profile3.xml \
     vendor/zuk/z2_row/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
-    vendor/zuk/z2_row/proprietary/etc/dhcpcd/dhcpcd.conf:system/etc/dhcpcd/dhcpcd.conf \
     vendor/zuk/z2_row/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
     vendor/zuk/z2_row/proprietary/etc/firmware/cpp_firmware_v1_5_2.fw:system/etc/firmware/cpp_firmware_v1_5_2.fw \
     vendor/zuk/z2_row/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/etc/firmware/nvm_tlv_1.3.bin \
@@ -671,15 +661,16 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/etc/firmware/a540_gpmu.fw2:system/etc/firmware/a540_gpmu.fw2 \
     vendor/zuk/z2_row/proprietary/etc/public.libraries.txt:system/etc/public.libraries.txt \
     vendor/zuk/z2_row/proprietary/etc/calib.cfg:system/etc/calib.cfg \
+    vendor/zuk/z2_row/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/zuk/z2_row/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
     vendor/zuk/z2_row/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/zuk/z2_row/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
-    vendor/zuk/z2_row/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/zuk/z2_row/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/zuk/z2_row/proprietary/etc/capability.xml:system/etc/capability.xml \
     vendor/zuk/z2_row/proprietary/etc/camera/s5k2m8sx_chromatix.xml:system/etc/camera/s5k2m8sx_chromatix.xml \
     vendor/zuk/z2_row/proprietary/etc/camera/msm8996_camera.xml:system/etc/camera/msm8996_camera.xml \
     vendor/zuk/z2_row/proprietary/etc/camera/ov8865_chromatix.xml:system/etc/camera/ov8865_chromatix.xml \
+    vendor/zuk/z2_row/proprietary/etc/permissions/com.qualcomm.location.vzw_library.xml:system/etc/permissions/com.qualcomm.location.vzw_library.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
@@ -688,6 +679,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/ConnectivityExt.xml:system/etc/permissions/ConnectivityExt.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
+    vendor/zuk/z2_row/proprietary/etc/permissions/izat.xt.srv.xml:system/etc/permissions/izat.xt.srv.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
     vendor/zuk/z2_row/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
@@ -701,13 +693,10 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/etc/tfa98xx/shenqi_music.preset:system/etc/tfa98xx/shenqi_music.preset \
     vendor/zuk/z2_row/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/zuk/z2_row/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
-    vendor/zuk/z2_row/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/zuk/z2_row/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/zuk/z2_row/proprietary/lib64/libextmedia_jni.so:system/lib64/libextmedia_jni.so \
     vendor/zuk/z2_row/proprietary/lib64/libtfa98xx.so:system/lib64/libtfa98xx.so \
-    vendor/zuk/z2_row/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/zuk/z2_row/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/zuk/z2_row/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zuk/z2_row/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/zuk/z2_row/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/zuk/z2_row/proprietary/bin/time_daemon:system/bin/time_daemon \
@@ -724,13 +713,16 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/zuk/z2_row/proprietary/bin/cnd:system/bin/cnd \
     vendor/zuk/z2_row/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
+    vendor/zuk/z2_row/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/zuk/z2_row/proprietary/bin/energy-awareness:system/bin/energy-awareness \
     vendor/zuk/z2_row/proprietary/bin/radish:system/bin/radish \
     vendor/zuk/z2_row/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/zuk/z2_row/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/zuk/z2_row/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/zuk/z2_row/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/zuk/z2_row/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/zuk/z2_row/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/zuk/z2_row/proprietary/bin/ssr_setup:system/bin/ssr_setup \
     vendor/zuk/z2_row/proprietary/bin/tftp_server:system/bin/tftp_server \
     vendor/zuk/z2_row/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/zuk/z2_row/proprietary/bin/iop:system/bin/iop \
@@ -740,6 +732,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/z2_row/proprietary/framework/com.qti.snapdragon.sdk.display.jar:system/framework/com.qti.snapdragon.sdk.display.jar \
     vendor/zuk/z2_row/proprietary/framework/dpmapi.jar:system/framework/dpmapi.jar \
     vendor/zuk/z2_row/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
+    vendor/zuk/z2_row/proprietary/framework/izat.xt.srv.jar:system/framework/izat.xt.srv.jar \
+    vendor/zuk/z2_row/proprietary/framework/com.qualcomm.location.vzw_library.jar:system/framework/com.qualcomm.location.vzw_library.jar \
     vendor/zuk/z2_row/proprietary/framework/cneapiclient.jar:system/framework/cneapiclient.jar \
     vendor/zuk/z2_row/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/zuk/z2_row/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
